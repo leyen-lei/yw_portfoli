@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>STA303 Professional Development on Yuwen Lei</title>
+    <link>https://leyen-lei.github.io/portfolio_2/</link>
+    <description>Recent content in STA303 Professional Development on Yuwen Lei</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Feb 2021 11:13:32 -0400</lastBuildDate><atom:link href="https://leyen-lei.github.io/portfolio_2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 5 Summary</title>
+      <link>https://leyen-lei.github.io/portfolio_2/post/chapter-3/</link>
+      <pubDate>Sun, 14 Feb 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://leyen-lei.github.io/portfolio_2/post/chapter-3/</guid>
+      <description>Maximum Likelihood (ML)
+ML estimates of variance components tend to be biased downward (smaller than they should be), making us more likely to pick models with simpler random effects structures than we should. We choose ML when we need to compare two nested based on their fixed effects since we cannot do likelihood ratio tests with models fit with REML unless the fixed effects are exactly the same.
+Restricted maximum likelihood (REML)</description>
+    </item>
+    
+    <item>
+      <title>Week 4 Summary</title>
+      <link>https://leyen-lei.github.io/portfolio_2/post/chapter-2/</link>
+      <pubDate>Sun, 07 Feb 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://leyen-lei.github.io/portfolio_2/post/chapter-2/</guid>
+      <description>Maximum Likelihood Estimation
+“Maximum likelihood estimation is a method that determines values for the parameters of a model. The parameter values are found such that they maximise the likelihood that they maximise the likelihood that process described by the model produced the data that were actually observed.” (Jonny Brooks-Bartlett, 2018)
+Properties of Maximum likelihood estimators (MLE)
+From our lecture notes, MLE for large sample sizes possess the following characteristics: 1. Bias goes to 0 as sample size increases 2.</description>
+    </item>
+    
+    <item>
+      <title>Week 3 Summary</title>
+      <link>https://leyen-lei.github.io/portfolio_2/post/chapter-1/</link>
+      <pubDate>Sun, 31 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://leyen-lei.github.io/portfolio_2/post/chapter-1/</guid>
+      <description>A confounding variable is a variable that influences both the explanatory variable and the response variable.
+What does it mean when variables are confounded?
+It is impossible to determine the extent of confounding. However, there are methods that we can use to minimize such effect:
+  Restrict the treatment group by including subjects with same traits;
+  Use matching by selecting two treatment groups, these two groups should have similar potential confounding variables but different independent variable values;</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://leyen-lei.github.io/portfolio_2/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://leyen-lei.github.io/portfolio_2/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
